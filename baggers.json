@@ -1,0 +1,79 @@
+{
+  "speakers": [
+    {
+      "since": "2015-11-27",
+      "name": "Marouane Gazanayi",
+      "bio": "Tech Lead @Renault. Hello world expert.",
+      "picture": "https://graph-labs.github.io/assets/img/mgazanayi.jpg",
+      "websites": [
+        {
+          "name": "Github",
+          "url": "https://github.com/mgazanayi"
+        },
+        {
+          "name": "Blog",
+          "url": "https://mgazanayi.github.io"
+        }
+      ],
+      "locations": [
+        "Casablanca"
+      ],
+      "sessions": [
+        {
+          "title": "Architecture Hexagonale pour le commun des mortels",
+          "abstract": "Entendez vous parler de DDD sans comprendre de quoi il s'agit ou vous ne voyez pas la plus value ? Venez découvrir dans cette présentation comment organiser votre code et rentrer par la grande porte dans le monde du Domain Driven Design en passant d'une architecture n-tiers à une architecture hexagonale pour un meilleur maintien du code et une meilleur représentation du métier dans votre application.",
+          "tags": [
+            "DDD",
+            "Architecture",
+            "Craft"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Casablanca",
+        "Rabat",
+        "Tangier",
+        "Fez"
+      ],
+      "contacts": {
+        "twitter": "mgazanayi",
+        "mail": "marouane.gazanayi@gmail.com"
+      }
+    }
+  ],
+  "cities": {
+    "Casablanca": {
+      "name_en": "Casablanca",
+      "name_fr": "Casablanca",
+      "ville_img": "img/cities/casablanca.png",
+      "lat": 33.575414,
+      "lng": -7.605534
+    },
+    "Fez": {
+      "name_en": "Fez",
+      "name_fr": "Fès",
+      "ville_img": "img/cities/fez.png",
+      "lat": 34.020259,
+      "lng": -5.008264
+    },
+    "Rabat": {
+      "name_en": "Rabat",
+      "name_fr": "Rabat",
+      "ville_img": "img/cities/rabat.png",
+      "lat": 33.970922,
+      "lng": -6.848337
+    },
+    "Tangier": {
+      "name_en": "Tangier",
+      "name_fr": "Tanger",
+      "ville_img": "img/cities/tangier.png",
+      "lat": 35.760777,
+      "lng": -5.834568
+    }
+  }
+}
+
